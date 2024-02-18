@@ -1,0 +1,4 @@
+pip install PyGetWindow
+pip install pygame
+pip install pygame-gui
+pip install numpy
